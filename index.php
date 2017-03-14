@@ -5,7 +5,7 @@
     <title>Formulario nuevo equipo</title>
   </head>
   <body>
-    <form action="insertar.php" method="post">
+    <form action="insertarDB.php" method="post">
       Nombre: <br>
       <input type="text" name="nombre">
       <br><br>
